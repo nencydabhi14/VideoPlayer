@@ -22,16 +22,16 @@ https://stackoverflow.com/questions/70170842/exoplayer-enable-subtitle-on-video
 https://exoplayer.dev/playlists.html
 
 
-Bitmap drawable_from_url(String url) throws java.net.MalformedURLException, java.io.IOException {
+    Bitmap drawable_from_url(String url) throws java.net.MalformedURLException, java.io.IOException {
 
-    HttpURLConnection connection = (HttpURLConnection)new URL(url) .openConnection();
-    connection.setRequestProperty("User-agent","Mozilla/4.0");
+        HttpURLConnection connection = (HttpURLConnection)new URL(url) .openConnection();
+        connection.setRequestProperty("User-agent","Mozilla/4.0");
 
-    connection.connect();
-    InputStream input = connection.getInputStream();
+        connection.connect();
+        InputStream input = connection.getInputStream();
 
-    return BitmapFactory.decodeStream(input);
-}
+        return BitmapFactory.decodeStream(input);
+    }
 
 
 
