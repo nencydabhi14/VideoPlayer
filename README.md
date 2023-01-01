@@ -42,7 +42,3 @@ https://github.com/moneytoo/Player/blob/master/app/src/main/java/com/brouken/pla
 
 
 https://github.com/moneytoo/Player/blob/58e63e275d2459a3ac06c742361468cbe4618237/app/src/main/java/com/brouken/player/PlayerActivity.java#L567
-
-
-
-
