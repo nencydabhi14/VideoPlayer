@@ -35,3 +35,14 @@ https://exoplayer.dev/playlists.html
 
 
 
+https://github.com/moneytoo/Player/blob/master/app/src/main/res/layout/exo_player_view.xml
+
+
+https://github.com/moneytoo/Player/blob/master/app/src/main/java/com/brouken/player/BrightnessControl.java
+
+
+https://github.com/moneytoo/Player/blob/58e63e275d2459a3ac06c742361468cbe4618237/app/src/main/java/com/brouken/player/PlayerActivity.java#L567
+
+
+
+
